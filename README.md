@@ -1,2 +1,2 @@
-# box
-box
+print("hello world")
+
